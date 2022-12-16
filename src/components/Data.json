@@ -1,0 +1,21 @@
+[{
+    
+    "title":"Basic",
+    "duration":"One-month",
+    "Price":"Rs.1000"
+},
+{
+    "title":"Gold",
+    "duration":"Two-month",
+    "Price":"Rs.2000"
+},{
+    "title":"Premium",
+    "duration":"Three-month",
+    "Price":"Rs.3000"
+}
+
+
+
+
+]
+    
